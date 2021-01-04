@@ -1,0 +1,8 @@
+{
+    "name": "NumHelp/php-telegram-bot-a",
+    "type": "project",
+    "require": {
+        "php": ">=7.3",
+        "longman/telegram-bot": "*"
+    }
+}
